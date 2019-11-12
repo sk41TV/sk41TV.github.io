@@ -236,7 +236,7 @@ input, select, textarea {
 	}
 
 	#profilepic {
-		background: #ffffff url("images/profilepic.jpg");
+		border-radius: 50%;
 	}
 
 	@-moz-keyframes bg {
