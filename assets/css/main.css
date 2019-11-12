@@ -215,11 +215,8 @@ input, select, textarea {
 		border-radius: 50%;
 		max-width: 20%;
 		max-height: 20%;
-	}
-
-	#profilepic:hover {
-		max-width: 25%;
-		max-height: 25%;
+		min-width: 250px;
+		min-height: 250px;;
 	}
 
 /* BG */
