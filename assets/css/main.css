@@ -213,6 +213,11 @@ input, select, textarea {
 
 	#profilepic {
 		border-radius: 50%;
+		max-width: 20%;
+		max-height: 20%;
+	}
+
+	#profilepic:hover {
 		max-width: 25%;
 		max-height: 25%;
 	}
