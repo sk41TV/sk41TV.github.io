@@ -235,6 +235,10 @@ input, select, textarea {
 		top: 0;
 	}
 
+	#profilepic {
+		background: #ffffff url("images/profilepic.jpg");
+	}
+
 	@-moz-keyframes bg {
 		0% {
 			-moz-transform: translate3d(0,0,0);
