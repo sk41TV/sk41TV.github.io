@@ -237,6 +237,8 @@ input, select, textarea {
 
 	#profilepic {
 		border-radius: 50%;
+		max-width: 100%;
+		max-height: 100%;
 	}
 
 	@-moz-keyframes bg {
