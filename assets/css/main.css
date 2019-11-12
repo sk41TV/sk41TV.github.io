@@ -225,7 +225,7 @@ input, select, textarea {
 		-ms-transform: translate3d(0,0,0);
 		transform: translate3d(0,0,0);*/
 	/* Set your background with this */
-		background: #ebb609;
+		
 		/*background: #348cb2 url("images/bg.jpg") bottom left*;/
 		/*background-repeat: repeat-x;*/
 		height: 100%;
@@ -233,22 +233,6 @@ input, select, textarea {
 		opacity: 1;
 		position: fixed;
 		top: 0;
-	}
-
-	jz-blue {
-		background: #348cb2;
-	}
-
-	jz-green {
-		background: #24cf14;
-	}
-
-	jz-yellow {
-		background: #e7e307;
-	}
-
-	jz-orange {
-		background: #ebb609;
 	}
 
 	@-moz-keyframes bg {
