@@ -1,4 +1,4 @@
-window.onload = function() {
+function setColorBySeason() {
     var d = new Date();
     switch(d.getMonth()) {
         case 11, 0, 1: document.getElementById("bg").style.background = "#348cb2"; break;
