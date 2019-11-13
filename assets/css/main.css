@@ -219,6 +219,13 @@ input, select, textarea {
 		min-height: 250px;
 	}
 
+	#picturesection {
+		max-width: 20%;
+		max-height: 20%;
+		min-width: 250px;
+		min-height: 250px;
+	}
+
 /* BG */
 
 	#bg {
