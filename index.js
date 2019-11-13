@@ -1,4 +1,4 @@
-$(document).ready(function() {
+window.onLoad = function() {
     var d = new Date();
     switch(d.getMonth()) {
         case 11, 0, 1: document.getElementById("bg").style.background = "#348cb2"; break;
@@ -7,4 +7,4 @@ $(document).ready(function() {
         case 8, 9, 10: document.getElementById("bg").style.background = "#ebb609"; break;
         default: break;
     }
-})
+};
